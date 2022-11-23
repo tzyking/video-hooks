@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Udemy - Modern React with Redux - Section 37: Hooks in Practice
+
+## course link: https://www.udemy.com/course/react-redux/learn/lecture/20788014#notes
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
